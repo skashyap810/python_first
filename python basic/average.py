@@ -1,4 +1,4 @@
-
+#code for calculating average
 a=input("Enter first num: ")
 b=input("Enter sec num: ")
 a=int(a)
